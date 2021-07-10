@@ -1,0 +1,24 @@
+.main{
+    width:460px;
+    height:640px;
+    background:linear-gradient(45deg, #EECFBA, #C5DDE8) ;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.input{
+    border:none;
+    border-radius:5px;
+    width:300px;
+    margin-top:30px;
+    margin-left:15%;
+}
+.butt{
+    width:100px;
+    height:20px;
+    border:none;
+    background-color:aquamarine;
+    border-radius:6px;
+    margin-left:165px;
+    margin-top: 10px;
+    cursor: pointer
+}
